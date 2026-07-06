@@ -1,0 +1,18 @@
+body {
+background-color: rgb(126, 180, 112);
+color: bisque;
+font-family: "Honk", system-ui;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+
+
+button{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    font-family: "Honk", system-ui;
+}
