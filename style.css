@@ -1,7 +1,7 @@
 body {
 background-color: rgb(126, 180, 112);
 color: bisque;
-font-family: "Honk", system-ui;
+ font-family: "Diplomata", serif;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -12,7 +12,7 @@ margin: 0;
 
 
 button{
-    background-color: aqua;
+    background-color: rgb(179, 207, 207);
     color: rgb(0, 0, 0);
     font-family: "Honk", system-ui;
 }
