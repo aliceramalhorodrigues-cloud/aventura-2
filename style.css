@@ -17,9 +17,12 @@ button {
     background-color: #2c3b47; 
     color: #8fa3b2; 
     font-family: "Honk", system-ui;
-    font-size: 1.1rem; 
-    padding: 10px 22px;
-    cursor: pointer;
-    border: 3px solid #0d141a;
-    border-radius: 0px;
-    box-shadow: inset -3px -3px 0px #1f}
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
